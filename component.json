@@ -1,0 +1,10 @@
+{
+  "name": "cookie",
+  "repo": "rinterest-team/cookie",
+  "description": "cookie manipulation",
+  "version": "0.1.0",
+  "keywords": ["cookie"],
+  "scripts": ["index.js"],
+  "files": ["lib/**"],
+  "license": "MIT"
+}
